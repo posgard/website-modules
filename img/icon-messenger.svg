@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 70 70" style="enable-background:new 0 0 70 70;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#FFFFFF;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="35" x2="70" y2="35" gradientTransform="matrix(6.123234e-17 -1 1 6.123234e-17 0 70)">
+	<stop  offset="0.1137" style="stop-color:#006DFF"/>
+	<stop  offset="0.9493" style="stop-color:#00C6FF"/>
+</linearGradient>
+<polygon class="st0" points="70,0 70,70 0,70 0,0 "/>
+<path id="Bubble_Shape_00000024703728695466978590000000808487746667849142_" class="st1" d="M35,11c-13.1,0-23.8,9.9-23.8,22.2
+	c0,7,3.4,13.2,8.8,17.3V59l8.1-4.5c2.2,0.6,4.5,0.9,6.8,0.9c13.1,0,23.8-9.9,23.8-22.2S48.1,11,35,11z M37.5,40.8l-6.1-6.4L19.5,41
+	l13-13.8l6.1,6.4L50.5,27L37.5,40.8z"/>
+</svg>
